@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/build",
+  "command": "/usr/bin/clang++ -I/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -o CMakeFiles/hello.dir/main.cpp.o -c /Users/tominhduy/cpp-course-autumn-2022/cmake_learn/main.cpp",
+  "file": "/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/main.cpp",
+  "output": "CMakeFiles/hello.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/build",
+  "command": "/usr/bin/clang++ -I/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -o CMakeFiles/hello.dir/src/Blah.cpp.o -c /Users/tominhduy/cpp-course-autumn-2022/cmake_learn/src/Blah.cpp",
+  "file": "/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/src/Blah.cpp",
+  "output": "CMakeFiles/hello.dir/src/Blah.cpp.o"
+}
+]
