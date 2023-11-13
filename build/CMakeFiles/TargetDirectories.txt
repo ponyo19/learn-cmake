@@ -1,0 +1,3 @@
+/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/build/CMakeFiles/hello.dir
+/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/build/CMakeFiles/edit_cache.dir
+/Users/tominhduy/cpp-course-autumn-2022/cmake_learn/build/CMakeFiles/rebuild_cache.dir
