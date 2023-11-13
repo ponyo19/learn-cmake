@@ -8,13 +8,13 @@ project(hello VERSION 1.0)
 file(GLOB_RECURSE SRC_FILES src/*.cpp)
 
 # Where to find binary files
-link_directories(${CMAKE_CURRENT_SOURCE_DIR}/lib)
+link_directories(${CMAKE_CURRENT_SOURCE_DIR}/lib/SFML)
 
 # Create executable
 add_executable(hello main.cpp ${SRC_FILES})
 
 # Link libraries with executable
-target_link_libraries(hello sfml-graphics sfml-window sfml-system)
+target_link_libraries(hello sfml-system sfml-graphics sfml-window sfml-system)
 
 # Where to find the headers
 target_include_directories(hello PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
